@@ -1,6 +1,6 @@
 Three useful naths utility functions are added.
 
-The square.cpp utility computes the square root of
+The square_root.cpp utility computes the square root of
 a nonnegative function; the gcd cpp utility finds the 
 greatest common divisior between two integers;
 the power.cpp utility raises a non-zero integer
